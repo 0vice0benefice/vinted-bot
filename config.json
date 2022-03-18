@@ -1,0 +1,29 @@
+{
+    "token": "OTUwNzM4Mzc5NjkwMTAyODA0.YidSHQ.hh7ffZ6cZgVcy0RXnuKMdaASEa4",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/954323248923951124/nHkP6VW8aw78J2WiOBqSdEOtwDrolLKi68zoEabDQrGCsQKklhoZkTI6awwCvvK_zKA3": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&catalog[]=79&brand_id[]=53&price_from=3&currency=EUR&price_to=40&status[]=6&status[]=1&status[]=2&order=newest_first",
+            "salon": "\ud83d\udc55-nike"
+        },
+        "https://discord.com/api/webhooks/954324145510940705/RV74Dmpvw324kE5MEiTRsa0QRFa8KejeIKr_yvdHCiWPxABA1Mxf3Pzcir1OtUckoIa6": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&catalog[]=79&price_from=3&currency=EUR&price_to=50&status[]=6&status[]=1&status[]=2&order=newest_first&brand_id[]=88",
+            "salon": "\ud83d\udc55-ralph-lauren"
+  
+        },
+        "https://discord.com/api/webhooks/954324441125519371/Dh0WYxpyjah4T5TYk5VEbXfRe6PMXZP9dT4rR04EabcJuK1SxQkCg-riFhDVk0cZPSB5": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&catalog[]=79&price_from=3&currency=EUR&price_to=80&status[]=6&status[]=1&status[]=2&order=newest_first&brand_id[]=73306",
+            "salon": "\ud83d\udc55-stone-island"
+        },
+        "https://discord.com/api/webhooks/954325356519755806/VAO_LHtRD45A3zSYwG-I4fp62teH7iK5qGhMAh1GqQ_zMM-v6SVoKuEbhHmZ3xJ-qBRn": {
+            "url": "https://www.vinted.fr/vetements?search_text=PPSC&order=newest_first&price_from=3&currency=EUR&price_to=100&status[]=6&status[]=1&status[]=2",
+            "salon": "\ud83d\udc55-ppsc"
+      
+        },
+        "https://discord.com/api/webhooks/954325833923842068/crF7GU-mjq8OoQNi1dTsb5jZXvTPcnHLz_02vWaCe2_dUyLDcrtzBMNqpqtwSDK7zsX8": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&catalog[]=79&price_from=3&currency=EUR&price_to=100&status[]=6&status[]=1&status[]=2&order=newest_first&brand_id[]=73952",
+            "salon": "\ud83d\udc55-cp-company"
+        }
+    }
+}
